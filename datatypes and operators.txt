@@ -1,0 +1,67 @@
+single variables:
+
+integer (ex: x=10,y=20)
+
+float (ex: x=1.2f y=99.9f)
+
+Boolean (true/false)
+
+string (ex: name="kirthana")
+
+
+
+multi variables:
+
+array (ex: arr=[1,2,3,4,5]
+
+list (ex: fruits=["apple","banana","mango"]
+
+tuple (ex: tuple=(20,30) )
+
+Dictionary (Dict={"name":"kirthana","age":19})
+
+
+operators
+
+
+Arithmetic operators
+
+Addition (a+b)
+Subtraction (a-b)
+Multiplication (a*b)
+Division (a/b)
+Modulus (a%b)
+
+Relational operators
+
+Equal to (a==b)
+Not equal to (a!=)
+Greater than (a>b)
+Less than (a<b)
+Greater than or equal to (a>=b)
+Less than or equal to (a<=b)
+
+Logical operators
+
+AND (a&&b)
+OR (a||b)
+NOT (a!b)
+
+Assignment operators
+
+Assignment (a=b)
+Add and assign (a+=b)
+Sub and assign (a-=b)
+Mul and assign (a*=b)
+Div and assign (a/=b)
+
+Bitwise operators
+
+& (AND)
+| (OR)
+^ (OR)
+~ (NOT)
+<< (Left shift)
+>> (Right shift)
+
+ 
